@@ -1,0 +1,8 @@
+com\example\demo\DemoApplication.class
+com\example\demo\TaskAppRunner.class
+com\example\demo\controllers\TaskController.class
+com\example\demo\services\TaskService.class
+com\example\demo\exceptions\GlobalExceptionHandler.class
+com\example\demo\model\TaskDTOResponse.class
+com\example\demo\model\Task.class
+com\example\demo\repositories\TaskRepository.class
